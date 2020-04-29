@@ -1,0 +1,43 @@
+body{
+   font-family: 'Times New Roman', Times, serif; 
+}
+
+.header {
+    background-color: lightblue;
+    text-align: center;
+    color: white;
+    border: solid black
+}
+
+h2{
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    background: linear-gradient(to top, white 75%,lightblue 25%);
+    width: 15em;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.left-article{
+    display: inline-block;
+    width: 40%;
+    text-align: left;
+    margin-right: 75px;
+    margin-left:  15em;
+}
+.side-article{
+    text-align: right;
+    text-align: center;
+    margin-top: -11em;
+    margin-right: -30em;
+}
+.footer{
+    background-color: lightblue;
+    border: solid black 2px;
+    margin: auto;
+    width: 100%;
+    padding: 100px;
+    margin: 230px;
+    margin-left: 0px;
+}
